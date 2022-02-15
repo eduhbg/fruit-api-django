@@ -1,9 +1,9 @@
-# Client Management with Flask
+# Fruit API with Django
 
 ## Overview
 The project aims to study Django and Django Rest Framework in a pratical context.
 
-![image](#)
+![image](https://user-images.githubusercontent.com/58524485/153967458-eee68e80-fa4e-416c-9d1e-a87bd26f8751.png)
 
 
 ## Features
