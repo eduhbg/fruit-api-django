@@ -3,13 +3,11 @@
 ## Overview
 The project aims to study Django and Django Rest Framework in a pratical context.
 
-Live demo [here](https://eduhbg-fruit-api-django.herokuapp.com/).
-
 ![image](#)
 
 
 ## Features
-- [x] Create, update and delete client record
+- [x] GET, POST, DELETE and PUT data with API
 
 ## Running the project
 Go to the project folder (`cd .../fruit-api-django/`) with your terminal and type:
