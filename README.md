@@ -22,6 +22,10 @@ python3 manage.py runserver
 
 The project will run in localhost (http://127.0.0.1:8000/).
 
+To see all the data, just make a request with the endpoint http://127.0.0.1:8000/fruits/ or http://127.0.0.1:8000/regions/.
+
+To change or delete, just pass the id in the endpoint (http://127.0.0.1:8000/fruits/id/) and in the body (json) fill in with the text you want to change, such as the fruit name. If you want to delete, just fill the id in the endpoint. 
+
 ## Dependencies
 - [Python](https://www.python.org/downloads) - used version 3.8.10;
 - Virtualenv (`sudo apt install python3-virtualenv`);
